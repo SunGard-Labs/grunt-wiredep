@@ -34,6 +34,6 @@
     "grunt": "~0.4.0"
   },
   "dependencies": {
-    "wiredep": "https://github.com/ruyadorno/wiredep/archive/support-multiple-dot-extname.tar.gz"
+    "wiredep": "https://github.com/SunGard-Labs/sg-wiredep/archive/master.tar.gz"
   }
 }
